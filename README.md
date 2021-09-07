@@ -1,2 +1,4 @@
-# memeland.bot
-meme bot or discord
+# memeland
+Discord meme bot
+
+i wil make the commands to install the bot
