@@ -21,7 +21,7 @@
     "git": "^0.1.5",
     "js": "^0.1.0",
     "lowdb": "^2.1.0",
-    "node-fetch": "^3.0.0",
+    "node-fetch": "^3.1.1",
     "node.js": "^0.0.1-security",
     "set": "^1.1.1",
     "snekfetch": "^4.0.4",
